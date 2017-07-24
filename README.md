@@ -1,6 +1,6 @@
-# Project Name
+# Qards
 
-The project description
+Play cards while video chatting with friends
 
 ## Team
 
