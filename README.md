@@ -1,17 +1,18 @@
-# Project Name
+# Qards
 
-The project description
+Play cards while video chatting with friends
 
 ## Team
 
-- teamMember
-- teamMember
-- teamMember
-- teamMember
+- Jake Sklar
+- Henri Pietila
+- James Murphy
+- Rich Werden
+- Jon Anderson
 
 ## Roadmap
 
-View the project roadmap [here](LINK_TO_DOC)
+View the project roadmap [https://docs.google.com/document/d/1G4x9QsaaJFDVv1U_ScasXwt1PxQLnfRwyRu0ubBWpsk/]
 
 ## Contributing
 
@@ -32,9 +33,8 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
 ## Requirements
 
 - Node 6.9.x
-- Redis 3.2.x
 - Postgresql 9.6.x
-- etc
+- MongoDB/Mongoose/mLab
 
 ## Development
 
